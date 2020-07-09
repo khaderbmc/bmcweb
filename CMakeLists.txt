@@ -117,7 +117,7 @@ option (
     OFF
 )
 
-option (BMCWEB_INSECURE_DISABLE_XSS_PREVENTION "Disable XSS preventions" OFF)
+option (BMCWEB_INSECURE_DISABLE_XSS_PREVENTION "Disable XSS preventions" ON)
 
 option (
     BMCWEB_INSECURE_ENABLE_REDFISH_FW_TFTP_UPDATE
